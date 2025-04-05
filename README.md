@@ -2,7 +2,7 @@
 A repo to demonstrate how BoldPerformanceCounter is used
 
 This repository contains a copy of https://github.com/Embarcadero/BoldForDelphi/blob/develop/Source/BoldPerformanceCounter.pas
-It is a class that make it easier to measure performance of your application by set up a tree of counters you can measure and see what parts is slow
+It is a class that make it easier to measure performance of your application by set up a tree of counters you can measure and see what parts is slow.
 Included a console demo how it is supposed to work.
 
 Output like this:
